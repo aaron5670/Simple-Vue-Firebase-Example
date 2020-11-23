@@ -1,4 +1,6 @@
-# vue-fire
+# Simple Vue Firebase (Firestore) example
+
+![Screenshot of the Application](https://raw.githubusercontent.com/aaron5670/Simple-Vue-Firebase-Example/master/screenshot.jpg)
 
 ## Project setup
 ```
