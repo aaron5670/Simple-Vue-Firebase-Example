@@ -5,6 +5,11 @@
 npm install
 ```
 
+## Add your Firebase config
+``
+Add your Firebase project settings in: src/db.js
+``
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
